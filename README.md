@@ -1,3 +1,5 @@
 # Hello-World
 Just another repository
-hi
+
+I'm Russell Simmons, a beginner computer programmer getting ready to learn some awesome stuff. Hi.
+
